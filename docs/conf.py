@@ -35,7 +35,7 @@ copyright = f"{datetime.date.today().year}"
 html_title = project + " documentation"
 
 # Documentation website URL
-ogp_site_url = "https://ubuntu.com/real-time/docs/"
+ogp_site_url = "https://ubuntu.com/real-time-test/docs/"
 
 # Preview name of the documentation website
 # TODO: To use a different name for the project in previews, update the next line.
